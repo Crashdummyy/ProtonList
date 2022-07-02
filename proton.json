@@ -1,0 +1,56 @@
+[
+        {
+                "appid": 1493710,
+                "name": "Experimental",
+                "major": 0,
+                "minor": 0
+        },
+        {
+                "appid": 1887720,
+                "name": "Proton 7.0",
+                "major": 7,
+                "minor": 0
+        },
+        {
+                "appid": 1580130,
+                "name": "Proton 6.3",
+                "major": 6,
+                "minor": 3
+        },
+        {
+                "appid": 1420170,
+                "name": "Proton 5.13",
+                "major": 5,
+                "minor": 13
+        },
+        {
+                "appid": 1245040,
+                "name": "Proton 5.0",
+                "major": 5,
+                "minor": 0
+        },
+        {
+                "appid": 1113280,
+                "name": "Proton 4.11",
+                "major": 4,
+                "minor": 11
+        },
+        {
+                "appid": 1054830,
+                "name": "Proton 4.2",
+                "major": 4,
+                "minor": 2
+        },
+        {
+                "appid": 961940,
+                "name": "Proton 3.16",
+                "major": 3,
+                "minor": 16
+        },
+        {
+                "appid": 858280,
+                "name": "Proton 3.7",
+                "major": 3,
+                "minor": 7
+        }
+]
